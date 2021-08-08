@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Niro100
-- 👀 I’m interested in Something
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on ❤️
-- 📫 Hello
+- 👋 Hi, I’m @Niro100 
+- 👀 I’m interested in Web Developing
+- 🌱 I’m currently learning German 🇩🇪
+- ✅ Editor at Android වැඩකාරයෝ
+- 🔥 My imagination is beyond the limits
 
 <!---
 Niro100/Niro100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
